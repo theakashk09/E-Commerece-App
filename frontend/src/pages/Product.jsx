@@ -10,7 +10,7 @@ const Product = () => {
 
   return (
     <div>
-      <p>Hellos</p>
+      <p>Hellos 123</p>
     </div>
   )
 
